@@ -10,10 +10,14 @@ export default function NavBar()  {
                     <Link to="/"> Acceuil </Link>
                 </li>
                 <li>
-                    <Link to="/Weather"> weather </Link>
+                    <Link to="/weather"> weather </Link>
                 </li>
                 <li>
                     <Link to="/About"> A propos </Link>
+                </li>
+
+                <li>
+                    <Link to="/ S'authentifier">  S'authentifier</Link>
                 </li>
             </ul>
         </nav>
